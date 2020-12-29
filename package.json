@@ -1,0 +1,14 @@
+{
+  "name": "tarball-helper",
+  "version": "1.0.2",
+  "description": "get npm tarballs from cache",
+  "main": "./cli/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "tarball-helper": "./cli/index.js"
+  },
+  "author": "sdhhqb",
+  "license": "MIT"
+}
